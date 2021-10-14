@@ -11,4 +11,3 @@
 
 * Branch "paginacao-simples" contem o código final do vídeo de como criar uma paginação simples.
 * Branch "infinity-scroll" contem o código final do vídeo de como implementar o infinity scroll.
-* 
